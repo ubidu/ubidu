@@ -1,2 +1,2 @@
 siem, @ubidu here <br>
-aspiring c#/.net developer
+aspiring .net/c# developer
