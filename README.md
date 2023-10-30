@@ -1,1 +1,6 @@
-aspiring .net/c# developer
+computer science student
+
+interests:
+- web development
+- cybersecurity
+- game dev
